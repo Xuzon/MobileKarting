@@ -3,6 +3,9 @@
 ## Instructions
 
 For Install download the .apk and run
+### Movement
+Tap on the right side to turn right, left to turn left
+For drifting move one finger 20% of the height of screen from tapping
 
 ## Modifications
 
